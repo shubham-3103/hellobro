@@ -1,16 +1,34 @@
 {
-    "data":[
-    {
-    "name":"Shubham Sharma",
-    "email":"shubhamsharma31031991@gmail.com",
-    "phone":"9879876542",
-    "rollno":"2020btechcse072"
-    },
-    {
-        "name":"Garv Baheti",
-        "email":"garvbaheti@gmail.com",
-        "phone":"9879123456",
-        "rollno":"2020btechcse031"
+    "data": [
+        {
+            "name": "Shubham Sharma",
+            "email": "shubhamsharma31031991@gmail.com",
+            "phone": "9879876542",
+            "rollno": "2020btechcse072"
+        },
+        {
+            "name": "Shruti Jain",
+            "email": "shrutijain@jklu.edu.in",
+            "phone": "8723687879",
+            "rollno": "2020BTechCSE007",
+        },
+        {
+            "name": "Shreya Jain",
+            "email": "shreyajain@123gmail.com",
+            "phone": "8723687899",
+            "rollno": "2020BTechCSE001",
+        },
+        {
+            "name":"Shubham Sharma",
+            "email":"shubhamsharma31031991@gmail.com",
+            "phone":"9879876542",
+            "rollno":"2020btechcse072"
+          },
+          {
+            "name":"Garv Baheti",
+            "email":"garvbaheti@gmail.com",
+            "phone":"9879123456",
+            "rollno":"2020btechcse031"
         }
     ]
 }
