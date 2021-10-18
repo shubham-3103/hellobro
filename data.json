@@ -1,4 +1,17 @@
 {
+    "data":[
+    {
+    "name":"Shubham Sharma",
+    "email":"shubhamsharma31031991@gmail.com",
+    "phone":"9879876542",
+    "rollno":"2020btechcse072"
+    },
+        {
+    "name":"Namish KHandelwal",
+    "email":"namishkhandelwal@jklu.edu.un",
+    "phone":"7877055851",
+    "rollno":"2020btechcse053"
+    },
     "data": [
         {
             "name": "Shubham Sharma",
@@ -29,6 +42,7 @@
             "email":"garvbaheti@gmail.com",
             "phone":"9879123456",
             "rollno":"2020btechcse031"
-        }
+        },
     ]
 }
+
